@@ -1,10 +1,10 @@
 ticket_id,order_id,created_at,category,customer_message
-T00001,O00006,2026-08-26T23:34:00,late_delivery,My order is already past the promised time.
-T00002,O00018,2026-08-24T13:49:00,eta_changed,The ETA keeps changing and the food is still not here.
-T00003,O00034,2026-08-25T18:22:00,status_mismatch,The app says picking up but the restaurant says it is ready.
-T00004,O00037,2026-08-09T21:09:00,driver_not_moving,The rider has not moved for 15 minutes.
-T00005,O00040,2026-08-11T20:15:00,late_delivery,My order is already past the promised time.
-T00006,O00041,2026-08-01T12:24:00,driver_not_moving,The rider has not moved for 15 minutes.
+T00001,,2026-08-26T23:34:00,late_delivery,My order is already past the promised time.
+T00002,,2026-08-24T13:49:00,eta_changed,The ETA keeps changing and the food is still not here.
+T00003,,2026-08-25T18:22:00,status_mismatch,The app says picking up but the restaurant says it is ready.
+T00004,O00037,2026-08-09T21:09:00,Late Delivery,The rider has not moved for 15 minutes.
+T00005,O00040,2026-08-11T20:15:00,late_delivery ,My order is already past the promised time.
+T00006,O00041,2026-08-01T12:24:00,ETA issue,The rider has not moved for 15 minutes.
 T00007,O00042,2026-08-09T19:19:00,restaurant_delay,Restaurant says they are still preparing my order.
 T00008,O00049,2026-08-09T11:42:00,late_delivery,My order is already past the promised time.
 T00009,O00058,2026-08-05T20:40:00,ready_but_waiting,Restaurant says food is ready but no rider has picked it up.
